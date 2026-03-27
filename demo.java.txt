@@ -12,5 +12,7 @@ int j = 20;
  
 
 int k = 30;
+
+String status="active";
 }
 
