@@ -7,5 +7,6 @@ int j = 20;
 }
 
  String name = "yogita";
+int k = 30;
 }
 
